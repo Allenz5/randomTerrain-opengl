@@ -1,0 +1,11 @@
+﻿  faultingTerrain.cpp
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\faultingTerrain.cpp(108,21): warning C4305: “初始化”: 从“double”到“float”截断
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\faultingTerrain.cpp(110,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\faultingTerrain.cpp(111,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\faultingTerrain.cpp(113,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\faultingTerrain.cpp(126,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+E:\VS\新建文件夹\terrainGenerator\terrainGenerator\shader.h(57,40): warning C4101: “e”: 未引用的局部变量
+  The contents of <filesystem> are available only with C++17 or later.
+  正在生成代码...
+  terrainGenerator.vcxproj -> E:\VS\新建文件夹\terrainGenerator\Debug\terrainGenerator.exe
