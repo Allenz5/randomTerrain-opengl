@@ -10,8 +10,8 @@ Create a random terrain with faulting method using opengl
 
 
 2.效果预览  
-![高度渲染](https://github.com/BBzzzr/randomTerrain-opengl/blob/main/2.png)  
-![贴图渲染](https://github.com/BBzzzr/randomTerrain-opengl/blob/main/1.png)  
+![贴图渲染](https://i.loli.net/2021/03/23/LBxw6vdMklAVTpU.png)   
+![高度渲染](https://i.loli.net/2021/03/23/JSrLub1C8UEdRQ3.png)  
 
 
 
